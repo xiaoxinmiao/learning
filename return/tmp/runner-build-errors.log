@@ -1,0 +1,3 @@
+# learning/return
+.\return.go:10:14: undefined: D
+.\return.go:16:9: no new variables on left side of :=
